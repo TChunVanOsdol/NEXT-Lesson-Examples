@@ -1,0 +1,20 @@
+﻿  RobotArm3R.cpp
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(85): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(91): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(98): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(99): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(101): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(102): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(103): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(209): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(221): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(231): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(269): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(270): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\id student\source\repos\robotarm3r\robotarm3r\robotarm3r.cpp(271): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  RobotArm3R.vcxproj -> C:\Users\iD Student\source\repos\RobotArm3R\x64\Debug\RobotArm3R.exe
